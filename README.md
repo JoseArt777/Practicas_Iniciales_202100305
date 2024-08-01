@@ -1,6 +1,6 @@
-<div style="text-align: right; padding-top: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Usac_logo.png/375px-Usac_logo.png" alt="Logo" width="100"/>
-</div>
+<p align="right">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Usac_logo.png" alt="Logo" width="100"/>
+</p>
 
 # <span style="font-family: 'Arial', sans-serif;">Prácticas Iniciales - Facultad de Ingeniería, Universidad de San Carlos de Guatemala</span>
 
@@ -27,10 +27,3 @@ Todos los estudiantes y profesores están invitados a contribuir al repositorio.
 
 Para preguntas, sugerencias o reportar problemas, por favor contacta a José Alexander López López, estudiante de ingeniería en sistemas, con carné 202100305, a través de iosealexander40@gmail.com.
 
----
-
-Este repositorio está destinado a ser un recurso colaborativo y valioso para todos los miembros de la Facultad de Ingeniería y personas externas. ¡Esperamos tus contribuciones!
-
----
-
-¡Esperamos que encuentres útil este repositorio y te deseo éxito en tus prácticas!

@@ -1,4 +1,4 @@
-<div style="text-align: right;">
+<div style="text-align: right; padding-top: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Usac_logo.png/375px-Usac_logo.png" alt="Logo" width="100"/>
 </div>
 

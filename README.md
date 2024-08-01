@@ -1,3 +1,7 @@
+<div style="text-align: right;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Usac_logo.png/375px-Usac_logo.png" alt="Logo" width="100"/>
+</div>
+
 # <span style="font-family: 'Arial', sans-serif;">Prácticas Iniciales - Facultad de Ingeniería, Universidad de San Carlos de Guatemala</span>
 
 Bienvenidos al repositorio oficial de las prácticas iniciales de la Facultad de Ingeniería de la Universidad de San Carlos de Guatemala. Este repositorio contiene todos los archivos relacionados con las prácticas iniciales, organizados y accesibles para estudiantes y profesores.
@@ -9,7 +13,6 @@ Bienvenidos al repositorio oficial de las prácticas iniciales de la Facultad de
 - **Instrucciones de Instalación**: Pasos detallados para instalar el software y las herramientas necesarias para completar las prácticas.
 - **Ejemplos y Plantillas**: Ejemplos de proyectos terminados y plantillas que pueden ser utilizadas como punto de partida.
 - **Recursos Adicionales**: Enlaces y documentos que proporcionan información adicional y apoyo para las prácticas.
-
 
 ## <span style="font-family: 'Times New Roman', serif;">Contribuciones</span>
 
